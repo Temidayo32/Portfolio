@@ -21,4 +21,4 @@ Software engineer with 4 years of full-stack web development experience speciali
 - An online marketplace for Independent Oracle Consultants.
   
 ## Contact
-Feel free to reach out to me at [temidayoazeez032@gmail.com](temidayoazeez032@gmail.com).
+Feel free to reach out to me at [danielajayi032@gmail.com](danielajayi032@gmail.com).
